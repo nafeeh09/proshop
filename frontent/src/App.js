@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <h1>welcome to proshop</h1>
+<p>lorem</p>
   )
 }
 
